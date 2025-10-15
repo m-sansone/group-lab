@@ -5,3 +5,6 @@ public class test {
     System.out.println("Goodbye, World!");
   }
 }
+    System.out.println("Hello, World!");
+  }
+}

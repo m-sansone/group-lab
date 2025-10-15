@@ -6,6 +6,8 @@ class Main {
         System.out.println("Ashraf");
         System.out.println("Clarissa");
 	System.out.println("Thomas");
+    System.out.println("Welcome to CS 490");
+
 
     }
 }
